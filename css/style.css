@@ -233,7 +233,7 @@ div#service {
     padding: 5% 0px;
 	min-height: 400px;
     background-color: rgb(17, 39, 149);
-    color: #fff;
+    color: rgb(17, 39, 149);
 }
 ul.service1 span.fa {
     font-size: 40px;
