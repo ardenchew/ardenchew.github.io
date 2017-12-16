@@ -280,7 +280,7 @@ ul.service1 li:hover span.fa {
 /*-- gallery --*/
 .w3ls-galley {
     padding: 5% 0px;
-	background-color: #00A0B0;
+	background-color: rgb(174, 231, 255);
 }
 .agilecount h3.center {
     padding: 3% 0;
@@ -386,9 +386,7 @@ h3.text-center {
     margin: auto;
 	border-radius: 50%;
 }
-.guide1 img:hover .overlay {
-    opacity: 0.5;
-}
+
 .guide-grids {
     text-align: center;
 }
@@ -574,13 +572,11 @@ ul.slides .user-review {
     margin-top: 25px;
 }
 .user-comment p:before { 
-    content: open-quote;
     font-weight: bold;
     font-size:25px;
     color:#03A9F4;
 } 
 .user-comment p:after { 
-    content: close-quote;
     font-weight: bold;
     font-size:25px;
     color:#03A9F4;
